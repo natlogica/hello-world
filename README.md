@@ -1,2 +1,2 @@
 # hello-world
-Just for learning and reviewing the ropes
+This repo is just for review and learning the ropes, where they're new.
